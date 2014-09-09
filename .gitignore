@@ -1,1 +1,10 @@
 notes.txt
+
+# Ignore all mp3 files inside audio_samples
+audio_samples/*.mp3
+
+# Ignore class files
+*.class
+
+# Ignore executable files
+*.exe
