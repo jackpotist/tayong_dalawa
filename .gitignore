@@ -8,3 +8,6 @@ audio_samples/*.mp3
 
 # Ignore executable files
 *.exe
+
+# Ignore all swp files
+*.swp
